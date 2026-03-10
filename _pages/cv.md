@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, Princeton University, 2027 (expected)
+* M.A., Princeton University, 2023
+* B.S. in Physics, ShanghaiTech University, 2021
+* Visiting International Student Program, Yale University, 2019-2020
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Student Organizer, Princeton Summer School on Condensed Matter Physics (PSSCMP)
+  * Princeton University and Institute for Advanced Studies (IAS)
+  * Organized the PSSCMP summer school, coordinated with people from different organizations.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2020 - Summer 2023: Yale-Visiting International Student Program (Y-VISP) Alumni Ambassador
+  * Yale University
 
 Publications
 ======
