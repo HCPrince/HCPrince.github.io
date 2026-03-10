@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/ICML2026
 excerpt: 'This paper discovers that superposition can lead to rapid training with a data-independent power law exponent power-law training dynamics'
-date: 2024-02-17
+date: 2026-02-01
 venue: 'Submitted to ICML 2026 (pending review)'
 paperurl: 'https://arxiv.org/abs/2602.01045'
 citation: 'Zixin Jessie Chen, Hao Chen, Yizhou Liu, Jeff Gore. &quot;Superposition unifies power-law training dynamics.&quot; <i>Pending review: ICML</i>. 2026.'
