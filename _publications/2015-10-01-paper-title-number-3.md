@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Generalized Gibbs Ensemble from Eigenstate Entanglement Hamiltonian"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/EHSMGGE
+excerpt: 'This is my featured work on quantum thermalization.'
+date: 2025-12-05
+venue: 'Physical Review Letters'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/dn82-y159'
+bibtexurl: 'https://arxiv.org/abs/2402.00939'
+citation: 'Hao Chen and Biao Lian. &quot;Generalized Gibbs Ensemble from Eigenstate Entanglement Hamiltonian.&quot; <i>Phys. Rev. Lett.</i>. 135, 233402 (2025).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Relaxed quantum systems with conservation laws are believed to be approximated by the generalized Gibbs ensemble (GGE), which incorporates the constraints of certain conserved quantities serving as integrals of motion. By drawing an analogy between eigenstate reduced density matrix and GGE, we conjecture that a natural set of conserved quantities for GGE can emerge from the reduced density matrices of properly chosen eigenstates by the entanglement Hamiltonian superdensity matrix (EHSM) framework, and we demonstrate this explicitly for models mappable to free fermions. The framework proposes that such conserved quantities are linear superpositions of eigenstate entanglement Hamiltonians of a larger auxiliary system, where the eigenstates are Fock states occupying what we call the common eigenmodes, which remain eigenmodes when truncated within the physical subsystem. For 1D homogeneous free fermions with (anti)periodic boundary conditions, which maps to 1D hardcore bosons with nearest neighbor hoppings, these conserved quantities lead to a non-Abelian GGE, which predicts the relaxation of both fermion and boson bilinears more accurately than the conventional Abelian GGE. Generalization of this framework may provide novel numerical insights for quantum integrability.
