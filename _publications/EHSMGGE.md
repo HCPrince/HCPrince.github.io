@@ -2,7 +2,7 @@
 title: "Generalized Gibbs Ensemble from Eigenstate Entanglement Hamiltonian"
 collection: publications
 category: manuscripts
-permalink: /publication/testlink
+permalink: /publication/EHSMGGE
 excerpt: 'This is my featured work on quantum thermalization.'
 date: 2025-12-05
 venue: 'Physical Review Letters'
