@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Quantized Transport of Disordered Superconducting Fractional Quantum Hall Edge (II): the v=52 Case Study<br />APS Global Physics Summit 2026; Denver, CO, USA",
+    "Quantized Transport of Disordered Superconducting Fractional Quantum Hall Edge (II): the v=5/2 Case Study<br />APS Global Physics Summit 2026; Denver, CO, USA",
     39.7392364,
     -104.984862
   ],
