@@ -13,10 +13,5 @@ var addressPoints = [
     "Quantized Transport of Disordered Superconducting Fractional Quantum Hall Edge (II): the v=5/2 Case Study<br />APS Global Physics Summit 2026; Denver, CO, USA",
     39.7392364,
     -104.984862
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ]
 ];
