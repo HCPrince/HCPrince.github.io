@@ -1,0 +1,16 @@
+---
+title: 'Solving equations by radicals: A mathematical drama on Galois theory'
+date: 2026-03-10
+permalink: /notes/Galois
+author_profile: false
+tags:
+  - mathematics
+  - history
+  - zero to ace
+---
+
+[Notes on Galois theory](https://hcprince.github.io/files/Galois_notes.pdf)
+
+Description
+------
+This manuscript provides a concise yet concrete narrative – or “drama” – of the Galois theory’s approach to the solvability of polynomial equations by radicals, culminating in the proof of the non-existence of quintic formulas. Based on a series of online lectures delivered in February 2026, the text assumes only a high-school level of mathematical maturity. It offers a self-contained introduction to field extensions and the core tenets of Galois theory, centering strictly on the fundamental problem of radical solvability. Having been successfully tested with general audiences, this material is well-suited for students and non-specialists seeking an accessible entry point into abstract algebra.
