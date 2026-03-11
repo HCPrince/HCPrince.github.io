@@ -19,7 +19,7 @@ In addition to serving as my academic homepage, this website is an open-access p
 
 These resources cover physics, mathematics, and the history of science. While they are not intended for formal academic publication, they are designed to provide the general audience with an accessible, concrete entry point into these complex fields. 
 
-You can explore these materials in the [Notes] section.
+You can explore these materials in the [Notes](https://hcprince.github.io/notes/) section.
 
 Acknowledgement
 ------
@@ -27,6 +27,6 @@ The content on this website would not have been possible without the support and
 
 **List of supporters**
 
-1. test test0
-2. test test1
-3. test test2
+1. 
+2. 
+3. 
