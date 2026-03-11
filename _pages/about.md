@@ -27,6 +27,7 @@ The content on this website would not have been possible without the support and
 
 **List of supporters**
 
-1. 
-2. 
-3. 
+1. R. Shankar (J.W. Gibbs Professor of Physics, Yale University): my mentor in theoretical physics and scientific research
+2. B. Lian (Assistant Professor of Physics, Princeton University): my Ph.D. advisor who most helped me become a physicist
+3. W. Wan (Professor Emeritus, ShanghaiTech University): my college advisor and mentor of life
+4. Z. Liu (Vice Provost, , ShanghaiTech University): my college advisor
