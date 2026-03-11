@@ -1,6 +1,8 @@
 ---
 title: 'The birth of variational calculus and analytical mechanics'
 date: 2025-09-09
+permalink: /notes/variational
+author_profile: false
 tags:
   - mathematics
   - physics
