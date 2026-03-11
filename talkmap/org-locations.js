@@ -5,9 +5,9 @@ var addressPoints = [
     -117.911732
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Level statistics and quantum scars in a few-body quantum model<br />APS March Meetings 2024; Minneapolis, MN, USA",
+    44.9772995,
+    -93.2654692
   ],
   [
     "Quantized Transport of Disordered Superconducting Fractional Quantum Hall Edge (II): the v=5/2 Case Study<br />APS Global Physics Summit 2026; Denver, CO, USA",
