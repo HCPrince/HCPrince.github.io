@@ -1,7 +1,7 @@
 ---
 title: 'Gauss-Laplace Synthesis: A brief review of the birth of normal distribution and central limit theorem'
 date: 2026-07-17
-permalink: /notes/Galois
+permalink: /notes/GL_synthesis
 author_profile: false
 tags:
   - mathematics
@@ -15,4 +15,4 @@ This manuscript provides a brief retrospect on the emergence of the normal distr
 
 Link
 ------
-[Notes on normal distribution and central limit theorem](https://hcprince.github.io/files/Galois_notes.pdf)
+[Notes on normal distribution and central limit theorem](https://hcprince.github.io/files/GL_synthesis.pdf)
